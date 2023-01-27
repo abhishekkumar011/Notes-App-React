@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Notes-App-React/static/css/main.cb756f38.css",
-    "main.js": "/Notes-App-React/static/js/main.47431bce.js",
+    "main.css": "/Notes-App-React/static/css/main.56d396d7.css",
+    "main.js": "/Notes-App-React/static/js/main.9cfcf24a.js",
     "index.html": "/Notes-App-React/index.html",
-    "main.cb756f38.css.map": "/Notes-App-React/static/css/main.cb756f38.css.map",
-    "main.47431bce.js.map": "/Notes-App-React/static/js/main.47431bce.js.map"
+    "main.56d396d7.css.map": "/Notes-App-React/static/css/main.56d396d7.css.map",
+    "main.9cfcf24a.js.map": "/Notes-App-React/static/js/main.9cfcf24a.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb756f38.css",
-    "static/js/main.47431bce.js"
+    "static/css/main.56d396d7.css",
+    "static/js/main.9cfcf24a.js"
   ]
 }
