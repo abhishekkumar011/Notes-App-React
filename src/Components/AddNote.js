@@ -4,8 +4,6 @@ function AddNote({ handleAddNote }) {
     const [noteText, setNoteText] = useState('');
     const characterLimit = 200;
 
-    // this is a good example of check and validation in our app if you need to do a check before 
-    // saving something to state doing it in the event handler function is a good idea.
     const handleChange = (event) => {
         if(characterLimit - event.target.value.length >= 0){
             setNoteText(event.target.value);
