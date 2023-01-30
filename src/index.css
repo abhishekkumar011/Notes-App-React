@@ -12,12 +12,33 @@ code {
     monospace;
 }
 
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.save.toggle {
+  font-size: .8rem;
+  padding: 8px;
+}
+
+.dark-mode {
+  background-color: black;
+  transition: 0.4s ease-in-out;
+}
+
+.dark-mode h1 {
+  color: #fff;
+}
+
 .container {
   max-width: 960px;
   margin-left: auto;
   margin-right: auto;
   padding-left: 15px;
   padding-right: 15px;
+  min-height: 100vh;
 }
 
 .notes-list {
